@@ -2,4 +2,5 @@ GUFRAN RESOLUSI
 - Menyelesaikan kuliah
 - Menguasai pemrograman website
 - Membuat website portfolio
+- Membuat aplikasi sederhana
 - Menguasai GIT & GITHub

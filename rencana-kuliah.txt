@@ -3,3 +3,5 @@ RENCANA KULIAH
 - Dapat IPK bagus
 - Menyelesaikan praktikum
 - Membuat website
+  ^ Portfolio
+- Membuat aplikasi
